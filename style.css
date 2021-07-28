@@ -1,0 +1,60 @@
+.hed 
+{
+ color: red;
+ width: 100%;
+ background-color: cornflowerblue;
+}
+
+.hed h1
+{
+ display: inline;
+}
+
+.hed button
+{
+    float: right;
+}
+
+.marioImg
+{
+    width: 100%;
+}
+
+.ms
+{
+ background-color: cornflowerblue;
+ color: black;
+}
+
+.cfm
+{
+    background-color: red;
+    color: black;
+    line-height:2;
+    bottom: 0;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.mage
+{
+    width: 45%;
+    display: inline-block;
+
+}
+
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+.ms
+{
+    width: 38%;
+}
